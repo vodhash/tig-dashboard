@@ -114,7 +114,7 @@ You have multiple choices to create your Grafana instance:
 cd
 mkdir grafana
 cd grafana
-wget https://raw.githubusercontent.com/vodhash/tig-dashboard/master/docker/docker-compose.yml
+wget https://github.com/vodhash/tig-dashboard/blob/master/docker/docker-compose-grafana.yml
 sudo docker compose up -d
 ```
 
